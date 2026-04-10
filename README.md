@@ -1,8 +1,8 @@
 # Ahoj, já jsem Jan Petrišče
 
-Vítej na mém GitHub profilu. Jsem student aplikované informatiky na Univerzitě J. E. Purkyně v Ústí nad Labem a vývojář, kterého baví tvořit praktická řešení. V IT jsem vyrostl od běžné správy systémů a sítí až po vývoj softwaru a hardwarových řešení na míru. 
+Vítej na mém GitHub profilu. Jsem student aplikované informatiky na Univerzitě J. E. Purkyně v Ústí nad Labem a vývojář, kterého baví tvořit praktická řešení. V IT se pohybuji od správy systémů a sítí až po vývoj softwaru a hardwarových řešení na míru. 
 
-Mým přístupem je tvořit věci, které skutečně fungují v praxi. Rád se učím za pochodu, dokážu si zachovat chladnou hlavu při řešení nečekaných krizí a složité technické problémy umím vysvětlit srozumitelnou lidskou řečí.
+Mým přístupem je tvořit věci, které skutečně fungují v praxi. Rád se učím za pochodu, dokážu si zachovat chladnou hlavu při řešení technických výzev a složité problémy řeším s důrazem na bezpečnost a dlouhodobou udržitelnost.
 
 ---
 
@@ -13,17 +13,19 @@ Komplexní hardwarově-softwarové řešení docházkového systému navržené 
 * **Hardware:** Fyzický terminál s dotykovým displejem běžící na lokálním serveru Raspberry Pi. Systém je navržen tak, aby spolehlivě fungoval i bez přístupu k internetu.
 * **Backend a logika:** Jádro systému běží na Pythonu (framework Flask). Obsahuje pokročilé algoritmy pro výpočet odpracované doby, směn a zpracování dat.
 * **Frontend:** Plně responzivní webová verze (HTML/CSS/JS) pro snadnou administraci.
-* **Bezpečnost:** Součástí systému je automatizované a bezpečné zálohování dat.
+* **Bezpečnost:** Implementace automatizovaného zálohování a ochrana integrity dat.
 
 ---
 
-## Můj největší projekt
+## Realizované projekty
 
-### Rekonstrukce IT a webu pro ZŠ Štětí
-Kompletní modernizace webové prezentace a IT infrastruktury pro Základní školu Štětí, Školní 559, okres Litoměřice.
-* Vytvoření plně responzivního, rychlého a bezpečného webu na novém redakčním systému.
-* Konfigurace bezpečných e-mailů a optimalizace celkové správy.
-* **Prohlédnout si živý web:** [zssteti-skolni.cz](https://www.zssteti-skolni.cz/)
+### Komplexní rekonstrukce IT infrastruktury (ZŠ Štětí)
+Tento projekt zahrnoval kompletní modernizaci digitální stopy a technického zázemí instituce.
+* **Síťová architektura:** Kompletní rekonstrukce školní sítě, sjednocení aktivních prvků a migrace správy pod cloudovou platformu **Zyxel Nebula**.
+* **Segmentace a bezpečnost:** Provedení logické segmentace sítě pomocí VLAN (oddělení administrativy, pedagogické sítě, sítě pro žáky a IoT prvků). Hloubkové nastavení firewallu a optimalizace propustnosti.
+* **Kamerový systém:** Implementace moderního kamerového systému se silným šifrováním přenosu dat a zabezpečeným vzdáleným přístupem.
+* **Webová prezentace:** Vývoj nového, bleskově rychlého webu zaměřeného na UX/UI pro rodiče a žáky.
+* **Odkaz na web:** [zssteti-skolni.cz](https://www.zssteti-skolni.cz/)
 
 ---
 
@@ -31,7 +33,8 @@ Kompletní modernizace webové prezentace a IT infrastruktury pro Základní šk
 
 * **Jazyky:** Python, HTML, CSS, JavaScript, R
 * **Frameworky a systémy:** Flask, WordPress
-* **Infrastruktura a hardware:** Linux, Raspberry Pi, správa koncových zařízení a sítí (primárně Zyxel)
+* **Sítě a bezpečnost:** Zyxel Nebula, VLAN segmentace, Firewalling, VPN (IPsec/L2TP)
+* **Hardware:** Raspberry Pi, IoT terminály, konfigurace síťových prvků
 * **Certifikace:** Associate Data Scientist in R (DataCamp), Linux Essentials (Cisco), Elements of AI (University of Helsinki)
 
 ---
