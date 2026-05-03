@@ -1,4 +1,4 @@
-# Ahoj, já jsem Jan Petrišče
+# Ahoj, jsem Jan Petrišče
 
 Vítej na mém GitHub profilu. Jsem student aplikované informatiky na Univerzitě J. E. Purkyně v Ústí nad Labem a vývojář, kterého baví tvořit praktická řešení. V IT se pohybuji od správy systémů a sítí až po vývoj softwaru a hardwarových řešení na míru. 
 
